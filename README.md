@@ -1,7 +1,5 @@
 ![](XLerateid.png)
 
-# XLerate.id
-
 # Unlock and XLerate Your Potentials 
 
 Selamat Datang di Xlerate.id. Kami mengkhususkan diri pada pelatihan Microsoft Excel, Power BI, Power Query, Looker, Googlesheet, dan Tableau. Tujuan dari XLerate.id adalah untuk membantu Anda menguasai atau bahkan mahir dalam hal mengolah dan menangani data dalam jumlah besar.
