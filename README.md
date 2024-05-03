@@ -12,6 +12,6 @@ XLerate.id hadir untuk berbagi pengalaman dan membantu Anda mengolah dan menanga
 
 Ingin tahu lebih lanjut? Ikuti kami melalui akun-akun kami untuk mendapatkan pembaharuan (updates) lebih lanjut:
 
-| Instagram | Youtube | Clicky.id |
+| **Instagram** | **Youtube** | **Clicky.id** |
 | ------ | ------ | ------ |
 | ![](XLerateidIG.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
