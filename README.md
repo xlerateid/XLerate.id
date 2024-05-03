@@ -12,5 +12,6 @@ XLerate.id hadir untuk berbagi pengalaman dan membantu Anda mengolah data dan me
 
 Ingin mempelajari lebih lanjut? Daftar segera pada pelatihan-pelatihan kami atau follow instagram kami di:
 
-| ![](XLerateidIG.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
+| Instagram | Youtube | Clicky.id |
 | ------ | ------ | ------ |
+| ![](XLerateidIG.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
