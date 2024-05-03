@@ -14,3 +14,4 @@ Ingin mempelajari lebih lanjut? Daftar segera pada pelatihan-pelatihan kami atau
 
 | ![](XLerateidIG.png) | ![](XLerateidEmail.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
 | ------ | ------ | ------ | ------ |
+| ter | ter | ter | ter |
