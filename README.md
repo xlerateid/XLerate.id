@@ -13,4 +13,4 @@ XLerate.id hadir untuk berbagi pengalaman dan membantu Anda mengolah data dan me
 Ingin mempelajari lebih lanjut? Daftar segera pada pelatihan-pelatihan kami atau follow instagram kami di:
 
 | ![](XLerateidIG.png) | ![](XLerateidEmail.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
-| ------ | ------ | ------ | ------ |
+| - | - | - | - |
