@@ -1,4 +1,4 @@
-![](XLerateid.png)
+![](LogoXLerateid.png)
 
 # Unlock and XLerate Your Potentials 
 
