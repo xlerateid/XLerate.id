@@ -8,9 +8,9 @@ Trainer di XLerate.id memiliki latar belakang dalam bidang sains maupun bisnis s
 
 Trainer di XLerate.id telah melalui dan mengatasi berbagai tantangan menggunakan Excel dan Tools pengolahan data lainnya di dalam pekerjaan ataupun dalam proyek-proyek yang mungkin saat ini sedang Anda kerjakan.
 
-XLerate.id hadir untuk berbagi pengalaman dan membantu Anda mengolah data dan menangani data dalam jumlah besar. Anda mungkin dapat mencari pelatihan-pelatihan serupa di luar ataupun pada situs-situs daring (online) seperti Youtube, Tik-Tok, ataupun pelatihan luring (Offline) lainnya. Namun di XLerate.id, Anda akan mendapatkan pelatihan yang telah dikurasi dan disusun sesuai dengan kebutuhan kerja sehari-hari. Sehingga apa yang Anda dapatkan akan sangat berguna dan membantu Anda dalam bekerja, khususnya mengolah dan menangani data dalam jumlah besar.
+XLerate.id hadir untuk berbagi pengalaman dan membantu Anda mengolah dan menangani data dalam jumlah besar. Anda mungkin dapat mencari pelatihan-pelatihan serupa di luar ataupun pada situs-situs daring (Online) seperti Youtube, Tik-Tok, ataupun pelatihan luring (Offline) lainnya. Namun di XLerate.id, Anda akan mendapatkan pelatihan yang telah dikurasi dan disusun sesuai dengan kebutuhan kerja sehari-hari. Sehingga apa yang Anda dapatkan akan sangat berguna dan membantu Anda dalam bekerja, khususnya mengolah dan menangani data dalam jumlah besar.
 
-Ingin mempelajari lebih lanjut? Daftar segera pada pelatihan-pelatihan kami atau follow instagram kami di:
+Ingin tahu lebih lanjut? Ikuti kami melalui akun-akun kami untuk mendapatkan pembaharuan (updates) lebih lanjut:
 
 | Instagram | Youtube | Clicky.id |
 | ------ | ------ | ------ |
