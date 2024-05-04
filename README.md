@@ -2,7 +2,7 @@
 
 ## Unlock and XLerate Your Potentials 
 
-Selamat Datang di Xlerate.id. Kami mengkhususkan diri pada pelatihan Microsoft Excel, Power BI, Power Query, Looker, Googlesheet, dan Tableau. Tujuan dari XLerate.id adalah untuk membantu Anda menguasai atau bahkan mahir dalam hal mengolah dan menangani data dalam jumlah besar.
+Selamat Datang di Xlerate.id. Kami mengkhususkan diri pada pelatihan **Microsoft Excel, Power BI, Power Query, Looker, Googlesheet,** dan **Tableau**. Tujuan dari XLerate.id adalah untuk membantu Anda menguasai atau bahkan mahir dalam hal mengolah dan menangani data dalam jumlah besar.
 
 Trainer di XLerate.id memiliki latar belakang dalam bidang sains maupun bisnis serta telah memiliki pengalaman pada masing-masing bidangnya. Sama seperti Anda, Microsoft Excel dan Tools data lainnya telah menjadi bagian yang tidak terpisahkan dalam pekerjaan sehari-hari mengolah data.
 
