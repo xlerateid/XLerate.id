@@ -14,4 +14,4 @@ Ingin tahu lebih lanjut? Ikuti kami melalui akun-akun kami untuk mendapatkan pem
 
 | **Instagram** | **Youtube** | **Clicky.id** |
 | ------ | ------ | ------ |
-| ![](XLerateidIG.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
+| ![image](XLerateidIG.png) | ![image](XLerateidYT.png) | ![image](XLerateidClicky.png) |
