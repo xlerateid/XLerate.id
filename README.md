@@ -16,4 +16,4 @@ Ingin tahu lebih lanjut? Ikuti kami melalui akun-akun kami untuk mendapatkan pem
 
 | ![](XLerateidIG.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
 | ------ | ------ | ------ |
-| [**@xlerate.id**](https://www.instagram.com/xlerate.id/) | **Youtube** | **Clicky.id** |
+| [**Instagram**](https://www.instagram.com/xlerate.id/) | [**Youtube**](www.youtube.com/@xlerateid) | [**Clicky.id**](https://clicky.id/xlerate-id) |
