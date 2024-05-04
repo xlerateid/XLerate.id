@@ -6,7 +6,7 @@ Selamat Datang di **Xlerate.id**. Kami mengkhususkan diri pada pelatihan **Micro
 
 Trainer di **XLerate.id** memiliki latar belakang dalam bidang sains maupun bisnis serta telah memiliki pengalaman pada masing-masing bidangnya. Sama seperti Anda, **Microsoft Excel** dan **Tools** data lainnya telah menjadi bagian yang tidak terpisahkan dalam pekerjaan sehari-hari mengolah data.
 
-![](JenisPelatihan.png)
+![](JenisPelatihan1.png)
 
 Trainer di **XLerate.id** telah melalui dan mengatasi berbagai tantangan menggunakan **Excel** dan **Tools** pengolahan data lainnya di dalam pekerjaan ataupun dalam proyek-proyek yang mungkin saat ini sedang Anda kerjakan.
 
