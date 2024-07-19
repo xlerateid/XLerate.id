@@ -26,7 +26,9 @@ Selain pelatihan data analisis yang mendalam, kami juga menyediakan Ebook dan Te
 
 Ingin tahu lebih lanjut? Ikuti kami melalui akun-akun kami untuk mendapatkan pembaharuan (Updates) lebih lanjut:
 
-
 | ![](XLerateidIG.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
 | ------ | ------ | ------ |
 | [**Instagram**](https://www.instagram.com/xlerate.id/) | [**Youtube**](https://www.youtube.com/@xlerateid) | [**Clicky.id**](https://clicky.id/xlerate-id) |
+
+## Link-link terkait XLerate.id
+- [Membuat Akun onmicrosoft.com](https://xlerateid.github.io/onmicrosoft.com-account/)
