@@ -2,18 +2,29 @@
 
 ## Unlock and XLerate Your Potentials 
 
-Selamat Datang di **Xlerate.id**. Kami mengkhususkan diri pada pelatihan **Microsoft Excel, Power BI, Power Query, Looker, Googlesheet,** dan **Tableau**. Tujuan dari **XLerate.id** adalah untuk membantu Anda menguasai atau bahkan mahir dalam hal mengolah dan menangani data dalam jumlah besar.
-
-Trainer di **XLerate.id** memiliki latar belakang dalam bidang sains maupun bisnis serta telah memiliki pengalaman pada masing-masing bidangnya. Sama seperti Anda, **Microsoft Excel** dan **Tools** data lainnya telah menjadi bagian yang tidak terpisahkan dalam pekerjaan sehari-hari mengolah data.
+Selamat Datang di **XLerate.id**, pusat pengembangan diri Anda!
+Kami di XLerate.id berkomitmen untuk membantu Anda menguasai dan meningkatkan kemampuan Anda dalam mengolah dan menangani data dalam jumlah besar. Kami menawarkan berbagai pelatihan data analisis menggunakan **Microsoft Excel, Power BI, Power Query, Looker, Google Sheet,** dan **Tableau**.
 
 ![](JenisPelatihan1.png)
 
-Trainer di **XLerate.id** telah melalui dan mengatasi berbagai tantangan menggunakan **Excel** dan **Tools** pengolahan data lainnya di dalam pekerjaan ataupun dalam proyek-proyek yang mungkin saat ini sedang Anda kerjakan.
+Trainer di **XLerate.id** telah melalui dan mengatasi berbagai tantangan dalam penggunaan **Excel** dan Tools pengolahan data lainnya di dalam pekerjaan ataupun dalam proyek-proyek yang mungkin saat ini sedang Anda kerjakan.
 
 **XLerate.id** hadir untuk berbagi pengalaman dan membantu Anda mengolah dan menangani data dalam jumlah besar. Anda mungkin dapat mencari pelatihan-pelatihan serupa di luar ataupun pada situs-situs daring (Online) seperti **Youtube, Tik-Tok,** ataupun pelatihan luring (Offline) lainnya. Namun di **XLerate.id**, Anda akan mendapatkan pelatihan yang telah dikurasi dan disusun sesuai dengan kebutuhan kerja sehari-hari. Sehingga apa yang Anda dapatkan akan sangat berguna dan membantu Anda dalam bekerja, khususnya mengolah dan menangani data dalam jumlah besar.
 
-Ingin tahu lebih lanjut? Ikuti kami melalui akun-akun kami untuk mendapatkan pembaharuan (Updates) lebih lanjut:
+Selain pelatihan data analisis yang mendalam, kami juga menyediakan Ebook dan Templates **(gratis maupun berbayar)** yang bisa Anda download yang mencakup berbagai topik menarik seperti:
 
+- Membangun Karir yang Sukses
+- Menguasai Media Sosial
+- Membuat Konten TikTok & Reels yang Menarik
+- Membuat Instagram Story
+- Meningkatkan Kemampuan Menulis
+- Mempelajari Copywriting
+- Menjadi Content Creator yang Sukses
+- Belajar Bahasa Inggris
+- Membangun Bisnis Online yang Menguntungkan
+- Meningkatkan Produktivitas
+
+Ingin tahu lebih lanjut? Ikuti kami melalui akun-akun kami untuk mendapatkan pembaharuan (Updates) lebih lanjut:
 
 
 | ![](XLerateidIG.png) | ![](XLerateidYT.png) | ![](XLerateidClicky.png) |
